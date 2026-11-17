@@ -1,8 +1,6 @@
-# RiskPulse: Institutional Real-Time Risk Intelligence & Portfolio Stress Engine - S&P Global & Crisil Campus Hackathon
+# RiskPulse: Institutional Real-Time Risk Intelligence & Portfolio Stress Engine
 
-**Candidate Name:** Raunak Kumar Jha  
-**College Email ID:** [raunakjha24bcy27@iiitkottayam.ac.in]  
-**College / Campus:** Indian Institute of Information Technology, Kottayam (IIIT Kottayam)  
+ 
 **Demo Video Link:** [https://youtu.be/YkDmwiack-k](https://youtu.be/YkDmwiack-k)  
 **Slide Deck Link (if hosted externally):** [https://www.dropbox.com/scl/fi/asoe0v78z9qysniesb8ep/presentation.pdf?rlkey=i921lpgdscrc8ek6fa7e1hwag&st=qiavvuyc&dl=0](https://www.dropbox.com/scl/fi/asoe0v78z9qysniesb8ep/presentation.pdf?rlkey=i921lpgdscrc8ek6fa7e1hwag&st=qiavvuyc&dl=0)  
 **Slide Deck (Repository PDF):** [docs/presentation.pdf](docs/presentation.pdf)  
